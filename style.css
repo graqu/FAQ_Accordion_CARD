@@ -86,7 +86,7 @@ body {
 	color: var(--soft-red);
 }
 
-.accordion-box h3 {
+.accordion-box h2 {
 	font-size: 14px;
 	font-weight: normal;
 }
@@ -108,7 +108,7 @@ body {
 .open .accordion-icon {
 	transform: rotate(180deg);
 }
-.open h3 {
+.open h2 {
 	font-weight: bold;
 }
 .attribution {
